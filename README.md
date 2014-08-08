@@ -1,0 +1,4 @@
+Trash
+=====
+
+depository with trash
